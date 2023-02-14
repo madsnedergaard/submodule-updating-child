@@ -1,7 +1,3 @@
 # Child
 
-Chill
-
-Chill
-
-Chill
+I'm the child!
